@@ -1,5 +1,4 @@
 # Microcontroller-Projects
-# My Microcontroller Projects
 
 Welcome to my portfolio of personal projects focused on electronics and microcontrollers. This repository serves as a showcase of my journey learning and applying skills in hardware design, embedded programming, and circuit analysis.
 
